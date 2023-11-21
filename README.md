@@ -1,4 +1,4 @@
-# SchoolProject_DeliveryOptimization
+# WGU C950 Task
 This is a school project done in Python for my WGU C950 - Data Structures and Algorithms Ⅱ Class. from a spreadsheet of addresses and packages it optimizes a delivery path. Additionally I chose to do extra and add an algorithm for optimizes the loading of packages onto trucks, but this was not required for the project
 Task for Western Governors University C950 - Data Structures and Algorithms II
 
